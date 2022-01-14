@@ -7,7 +7,7 @@ The script works by loading the selected image, saving it as a JPEG and then del
 To compile the script yourself:
 1. Setup a python environment with `pyinstaller` and `pillow` installed.
 2. From the command line or terminal run `pyinstaller convert_jpeg.pyw`. Optionally include the flag `--onefile` to compile the script to a singular .exe file.
-3. This will create a /dist folder where the application executable can be found.
+3. This will create a */dist* folder where the application executable can be found.
 
 ## Installation
 To add this to the context menu:
