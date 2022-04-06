@@ -1,4 +1,4 @@
-# Right Click JPEG
+# Convert image type to JPEG
 A simple script to convert an image file to JPEG format, with instructions to install it as an option within the Windows 10 right-click context menu. This is mainly for the purpose of dealing with WEBP images, which are not yet supported by a number of applications.
 
 The script works by loading the selected image, saving it as a JPEG and then deleting the original image. **Please note** that transparency data for the image will be lost as it is not supported by the JPEG format.
